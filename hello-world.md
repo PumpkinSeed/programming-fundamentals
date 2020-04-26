@@ -68,4 +68,8 @@ The flow:
 The program code what we are writing is a high level abstraction of the programming of the computer. There is a language called Assembly, which is the lowest level of the programming, but we don't want to leanr it... yet.
 So the computer doesn't understand the code what we are writing by default. There is a translater or compiler which translates the code to something which is more understandable for the computer.
 At the momment we are using a web based helper which doing it for us, just to test out the code. 
-You can install this translater on your on computer as well. [Installation guides](install.md) 
+You can install this translater on your on computer as well. [Installation guides](install.md)
+
+If you installed or you want to skip it for later, you can go with the next lesson.
+
+[Types >>](types.md)
