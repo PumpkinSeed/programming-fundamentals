@@ -1,4 +1,4 @@
-## Hello world, extra functionalities
+## Hello world
 
 ```go
 package main
@@ -71,5 +71,10 @@ At the momment we are using a web based helper which doing it for us, just to te
 You can install this translater on your on computer as well. [Installation guides](install.md)
 
 If you installed or you want to skip it for later, you can go with the next lesson.
+
+### Summary 
+
+In this section we learned the necessary tools to start learning programmings deeper and can visualize what we have done. These are the print functionalities. 
+The next section will have basic details about types. 
 
 [Types >>](types.md)
