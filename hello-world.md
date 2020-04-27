@@ -9,7 +9,7 @@ func main() {
 ```
 [Playground](https://play.golang.org/p/aGyl0wLcnqG)
 
-"Hello world" is the most basic code what we can have. Consist of 4 lines of code, where the online line what we should know about is the `println("Hello world")`.
+"Hello world" is the most basic code what we can have. Consist of 4 lines of code, where the one line what we should know about is the `println("Hello world")`.
 If you run it in the playground, you will see the "Hello world" on the bottom of the webpage. So the "print" means print the words to the output. 
 The "ln" means that it's automatically press an enter after the printed line. Let's proof it. If you update the playground with the following new lines, you will see the differences.
 
