@@ -39,7 +39,7 @@ So if you run the code snippet above, the result will be types printed out on th
 
 Most of the languages has different size of number data representation as you can see in case 3. This is not relevant in our case, so you can check it out on the other additional section. [Details of numerical data representation](additional-numberic.md)
 
-In case 4 we see a new kind of numeric data representation. It's the floating-point number. While the integer type stores integers the float-point number can store real numbers with float-point like 33.423. We can do the same manipulations on them, like summa, mutiplication, etc.
+In case 4 we see a new kind of numeric data representation. It's the floating-point number as `float64`. While the integer type stores integers the float-point number can store real numbers with float-point like 33.423. We can do the same manipulations on them, like summa, mutiplication, etc.
 
 There is a strict restriction on data manipulation, they have to be the same type. So I can do summa on two integers, but I can't do on an integer with a float-pointer.
 
